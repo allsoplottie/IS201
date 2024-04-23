@@ -1,0 +1,17 @@
+body{
+    color: gray(52, 15, 15, 0.503);
+    background-color: rgb(151, 192, 250)
+}
+.bold{font-weight: bold;}
+.references{
+    color: rgb(233, 97, 0);
+    font-size: large;
+}
+.numberedlist{
+    font-style: italic;
+    font-size: smaller;
+}
+.tandv{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
