@@ -1,6 +1,6 @@
 body{
     color: gray(52, 15, 15, 0.503);
-    background-color: rgb(151, 192, 250)
+    background-color: rgb(151, 192, 250);
 }
 .bold{font-weight: bold;}
 .references{
@@ -14,4 +14,7 @@ body{
 .tandv{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: underline;
+}
+.position{
+    position: fixed;
 }
